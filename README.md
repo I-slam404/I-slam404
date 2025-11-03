@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Islam+(I-slam404)+%F0%9F%91%8B;Junior+Android+Developer;Kotlin+%E2%80%A2+Jetpack+Compose+%E2%80%A2+Clean+Architecture;Open+to+junior+roles+and+internships" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Islam+(I-slam404)+%F0%9F%91%8B;Junior+Android+Developer;Kotlin+%E2%80%A2+Jetpack+Compose+%E2%80%A2+Clean+Architecture;Open+to+junior+roles" alt="Typing introduction" />
 </p>
 
 ## About me
