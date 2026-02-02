@@ -14,10 +14,7 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=I-slam404&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-slam404&layout=compact&theme=radical"/>
-</div>
----
-![](https://visitcount.itsvg.in/api?id=I-slam404&icon=0&color=0)](https://visitcount.itsvg.in)
+  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=I-slam404&theme=radical&hide_border=true"/>
+</div
 
-Proudly created with GPRM ( https://gprm.itsvg.in )
+---
